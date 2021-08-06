@@ -1,5 +1,5 @@
 const qs = (a) => document.querySelector(a);
-var worker = new Worker('scripts/factorize.js');
+var worker = new Worker('./factorize.js');
 
 let working = false;
 
