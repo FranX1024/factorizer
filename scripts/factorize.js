@@ -3,7 +3,7 @@
  * napisao Fran R.
  */
 
-importScripts('/scripts/dtable.js');
+importScripts('scripts/dtable.js');
 
 /* Kako bi se skripta mogla zaustaviti izvana */
 let STOPMESSAGE = false;
